@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+pymupdf
+spacy==3.7.2
+nltk
+selenium
+blis==0.7.9
+
+# Enforces prebuilt model wheel download
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+
+# Gemini API + template rendering + env support
+google-generativeai
+jinja2
+python-dotenv
