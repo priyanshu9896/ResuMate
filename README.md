@@ -198,7 +198,7 @@ Pull requests and issues are welcome!
 
 ## 🧑‍💻 Developer Info
 
-**Team Members**: Aryan Bansal, Aryan Gupta, Arnav Bansal, Sanyam Jain  
+**Team Members**: Priyanshu Dubey  
 **Organization**: DTU CSE
 
 ---
